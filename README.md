@@ -1,2 +1,2 @@
 # WSNPrototype
-Gases-monitoring WSN in Underground Coal Mining. Source code for the sensor, realy and base station nodes.
+Gases-monitoring WSN in Underground Coal Mining. Source code in Arduino for the sensor and realy nodes. Source code in python for Base Station.
